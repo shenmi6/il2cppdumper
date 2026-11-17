@@ -1,0 +1,2 @@
+# il2cppdumper
+静态的il2cppdumper，能支持metadata31及以下版本，单c文件使用很方便简单
